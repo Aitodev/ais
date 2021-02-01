@@ -1,0 +1,44 @@
+#foooter {
+    display: flex;
+    justify-content: center;
+}
+
+#navmenu {
+    margin-left: -22% !important;
+    background-color: rgba(0,0,0,0.6);
+    color: white !important;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+#calc {
+    border: 3px solid rgb(48, 45, 45) !important;
+    border-radius: 10px;
+    box-shadow: black;
+}
+
+.dk-list {
+    background: rgb(236, 236, 236);
+    box-shadow: 0 6px 15px 1px rgba(0,0,0,.2);
+    padding-bottom: 40px;
+    position: relative;
+    align-items: center;
+    display: block;
+    justify-content: center;
+    /* padding-left: 55px; */
+    width: 77%;
+}
+
+#contact_form {
+    background: rgb(236, 236, 236);
+    box-shadow: 0 6px 15px 1px rgba(0,0,0,.2);
+    padding-bottom: 40px;
+    position: relative;
+    align-items: center;
+    font-size: 20px;
+}
+
+/* #contact_content {
+    background: url('../images/lexus-1563694_1920.jpg') no-repeat 100% 100%;
+} */
